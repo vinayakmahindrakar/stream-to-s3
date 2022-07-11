@@ -8,6 +8,6 @@
 
 ## Endpoint
 
-### `POST /?fileName`
+### `POST /?fileName={filName}`
 Attaching postman image for reference
-![alt text](https://github.com/vinayakmahindrakar/[stream-to-s3]/blob/[master]/image.jpg?raw=true)
+!(https://github.com/vinayakmahindrakar/stream-to-s3/blob/master/image.jpg)
