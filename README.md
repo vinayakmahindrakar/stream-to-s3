@@ -10,4 +10,4 @@
 
 ### `POST /?fileName={filName}`
 Attaching postman image for reference
-!(https://github.com/vinayakmahindrakar/stream-to-s3/blob/master/image.jpg)
+![alt text](https://github.com/vinayakmahindrakar/stream-to-s3/blob/master/image.jpg)
