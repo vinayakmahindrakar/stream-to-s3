@@ -7,7 +7,6 @@ const S3 = new AWS.S3({
  
 const uploadToS3 = (req, fileName) => {
   return new Promise((resolve, reject) => {
-    console.log("in here");
     const params = {
       Key: fileName,
       Bucket: process.env.S3_BUCKET,
